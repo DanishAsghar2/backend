@@ -1,12 +1,13 @@
 const express = require("express")
 const morgan = require('morgan')
 const bodyParser = require("body-parser");
+const cors = require("cors");
 
-
-const app = express()
+const app = express();
+app.use(cors())
 
 // Server port
-const HTTP_PORT = 3333 
+const HTTP_PORT = 3000
 
 // Start server
 app.listen(HTTP_PORT, () => {
@@ -26,7 +27,12 @@ app.get("/", (req, res, next) => {
 });
 
 // Other API endpoints: Links go here...
-
+require("./app/routes/users.routes")(app);
+require("./app/routes/products.routes")(app);
+require("./app/routes/cart.routes")(app);
+require("./app/routes/billing.routes")(app);
+require("./app/routes/delivery.routes")(app);
+require("./app/routes/orders.routes")(app);
 
 // Default response for any other request
 app.use(function(req, res){

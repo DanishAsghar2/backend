@@ -1,0 +1,293 @@
+
+{
+    "fragrance1": {
+      "name": "Pineapple Glacier",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Refreshing blend of tropical pineapple and zesty citrus",
+      "base": "Crisp Woods, White Musk",
+      "heart": "Green Apple, Juicy Pear",
+      "top": "Fresh Pineapple, Citrus Zest",
+      "sample": "No"
+    },
+    "fragrance2": {
+      "name": "Stars Et Oud",
+      "price": 99.99,
+      "type": "Winter",
+      "description": "Mysterious combination of celestial scents and rich oud",
+      "base": "Patchouli, Sandalwood",
+      "heart": "Oud, Jasmine",
+      "top": "Bergamot, Orange Blossom",
+      "sample": "No"
+    },
+    "fragrance3": {
+      "name": "Nuit d'Orleans",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "A captivating fragrance that evokes the magic of jazz in New Orleans",
+      "base": "Amber, Patchouli, Musk",
+      "heart": "Jasmine, Magnolia, Tonka Bean",
+      "top": "Bergamot, Lavender, Cypress",
+      "sample": "No"
+    },
+    "fragrance4": {
+      "name": "Ethereal Diorama",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "A dreamy scent that transports you to a world of fantasy and wonder",
+      "base": "Cedarwood, Musk, Vanilla",
+      "heart": "Lavender, Rose, Iris",
+      "top": "Lemon, Orange, Bergamot",
+      "sample": "No"
+    },
+    "fragrance5": {
+      "name": "Milano",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "An elegant fragrance inspired by the timeless beauty of Milan",
+      "base": "Patchouli, Amber, Musk",
+      "heart": "Jasmine, Lily, Orange Blossom",
+      "top": "Bergamot, Mandarin, Petitgrain",
+      "sample": "No"
+    },
+    "fragrance6": {
+      "name": "Atmospheric Diamond",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "A luxurious scent that captures the brilliance of a sparkling diamond",
+      "base": "Amber, Musk, Patchouli",
+      "heart": "Ylang-Ylang, Jasmine, Lily of the Valley",
+      "top": "Neroli, Freesia, Pear",
+      "sample": "No"
+    },
+    "fragrance7": {
+      "name": "1819",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "A fragrance that pays homage to the opulence and grandeur of the 19th century",
+      "base": "Sandalwood, Vanilla, Musk",
+      "heart": "Rose, Jasmine, Orris",
+      "top": "Bergamot, Lemon, Basil",
+      "sample": "No"
+    },
+    "fragrance8": {
+      "name": "Marseille",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "A refreshing blend that captures the essence of the Mediterranean coast",
+      "base": "Cedarwood, Amber, Musk",
+      "heart": "Lavender, Rosemary, Thyme",
+      "top": "Bergamot, Lemon, Marine Notes",
+      "sample": "No"
+    },
+    "fragrance9": {
+      "name": "Love's Golden Hour",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "A warm and romantic fragrance that celebrates the magic of golden moments",
+      "base": "Vanilla, Musk, Amber",
+      "heart": "Jasmine, Rose, Orchid",
+      "top": "Grapefruit, Orange, Bergamot",
+      "sample": "No"
+    },
+    "fragrance10": {
+      "name": "Lion's Heart",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "A bold and majestic fragrance that embodies strength and courage",
+      "base": "Sandalwood, Patchouli, Leather",
+      "heart": "Rose, Carnation, Geranium",
+      "top": "Bergamot, Lemon, Cardamom",
+      "sample": "No"
+    },
+    "fragrance11": {
+      "name": "1819 Revolution",
+      "price": 99.99,
+      "type": "Winter",
+      "description": "A revolutionary scent that ignites the spirit of change and innovation",
+      "base": "Cedarwood, Vetiver, Oakmoss",
+      "heart": "Geranium, Lavender, Elemi",
+      "top": "Grapefruit, Lemon, Black Pepper",
+      "sample": "No"
+    },
+    "fragrance12": {
+      "name": "Brazilian Vibes",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Experience the vibrant energy of Brazil with 'Brazilian Vibes': a lively fusion of tropical fruits and exotic florals.",
+      "base": "Sandalwood, Coconut, Musk",
+      "heart": "Jasmine, Gardenia, Ylang-Ylang",
+      "top": "Passionfruit, Guava, Orange",
+      "sample": "No"
+    },
+    "fragrance13": {
+      "name": "Brooklyn",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Embark on a journey through the streets of Brooklyn with 'Brooklyn': a bold and eclectic blend that captures the essence of urban life.",
+      "base": "Patchouli, Vetiver, Leather",
+      "heart": "Cypress, Lavender, Ginger",
+      "top": "Bergamot, Grapefruit, Juniper",
+      "sample": "No"
+    },
+    "fragrance14": {
+      "name": "Desire's Dream",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Indulge in the allure of 'Desire's Dream': a captivating fragrance that ignites the senses and stirs the soul.",
+      "base": "Vanilla, Tonka Bean, Amber",
+      "heart": "Rose, Jasmine, Violet",
+      "top": "Mandarin, Peach, Raspberry",
+      "sample": "No"
+    },
+    "fragrance15": {
+      "name": "Love In You",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Celebrate the essence of love with 'Love In You': a romantic and enchanting fragrance that envelops you in a warm embrace.",
+      "base": "Musk, Amber, Cedarwood",
+      "heart": "Rose, Jasmine, Lily of the Valley",
+      "top": "Bergamot, Lemon, Raspberry",
+      "sample": "No"
+    },
+    "fragrance16": {
+      "name": "Noir Francois",
+      "price": 99.99,
+      "type": "Winter",
+      "description": "Unleash your mysterious side with 'Noir Francois': a seductive and enigmatic fragrance that captivates the senses.",
+      "base": "Patchouli, Vetiver, Musk",
+      "heart": "Iris, Violet, Leather",
+      "top": "Bergamot, Black Pepper, Cardamom",
+      "sample": "No"
+    },
+    "fragrance17": {
+      "name": "Obscene Obsession",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Explore the depths of desire with 'Obscene Obsession': an intoxicating fragrance that pushes the boundaries of sensuality.",
+      "base": "Amber, Patchouli, Vanilla",
+      "heart": "Rose, Jasmine, Tuberose",
+      "top": "Bergamot, Mandarin, Pink Pepper",
+      "sample": "No"
+    },
+    "fragrance18": {
+      "name": "Serene Embrace",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Find tranquility in 'Serene Embrace': a peaceful and soothing fragrance that envelops you in a comforting aura.",
+      "base": "Cedarwood, Vetiver, Musk",
+      "heart": "Geranium, Rosemary, Clary Sage",
+      "top": "Lavender, Chamomile, Bergamot",
+      "sample": "No"
+    },
+    "fragrance19": {
+      "name": "After Hours",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "A captivating scent perfect for late-night adventures. After Hours blends warm vanilla and spicy amber with hints of citrus and musk, creating an alluring fragrance that lingers long after the party ends.",
+      "base": "Vanilla, Musk",
+      "heart": "Amber, Jasmine",
+      "top": "Citrus, Bergamot",
+      "sample": "No"
+    },
+    "fragrance20": {
+      "name": "Algerian Dunes",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Inspired by the vast desert landscape, Algerian Dunes evokes the essence of freedom and exploration. This fragrance combines earthy patchouli and cedarwood with fresh bergamot and spicy cardamom, creating a harmonious blend that transports you to the heart of the desert.",
+      "base": "Cedarwood, Vetiver",
+      "heart": "Patchouli, Geranium",
+      "top": "Bergamot, Cardamom",
+      "sample": "No"
+    },
+    "fragrance21": {
+      "name": "Fifth Avenue",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Fifth Avenue captures the essence of sophistication and elegance. This timeless fragrance opens with vibrant citrus notes, leading to a floral heart of rose and jasmine, while the base of sandalwood and amber provides a warm and luxurious finish.",
+      "base": "Sandalwood, Amber",
+      "heart": "Rose, Jasmine",
+      "top": "Lemon, Bergamot",
+      "sample": "No"
+    },
+    "fragrance22": {
+      "name": "Carrara",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Named after the famous Carrara marble, this fragrance exudes refinement and luxury. Carrara combines the freshness of citrus with the richness of cedarwood and musk, creating a sophisticated and timeless scent that leaves a lasting impression.",
+      "base": "Cedarwood, Musk",
+      "heart": "Jasmine, Lily of the Valley",
+      "top": "Bergamot, Lemon",
+      "sample": "No"
+    },
+    "fragrance23": {
+      "name": "Galactic Musk",
+      "price": 99.99,
+      "type": "Winter",
+      "description": "Embark on a celestial journey with Galactic Musk, a captivating fragrance that transports you to distant galaxies. This cosmic scent blends ethereal musk with sparkling citrus and exotic spices, creating a mesmerizing olfactory experience.",
+      "base": "Musk, Patchouli",
+      "heart": "Jasmine, Violet",
+      "top": "Grapefruit, Pink Pepper",
+      "sample": "No"
+    },
+    "fragrance24": {
+      "name": "Imperial Orchid",
+      "price": 99.99,
+      "type": "Winter",
+      "description": "Imperial Orchid exudes opulence and allure, inspired by the rare and exotic flower. This luxurious fragrance combines the intoxicating scent of orchids with velvety vanilla and sensual musk, creating a captivating aroma that commands attention.",
+      "base": "Musk, Sandalwood",
+      "heart": "Vanilla, Jasmine",
+      "top": "Orchid, Bergamot",
+      "sample": "No"
+    },
+    "fragrance25": {
+      "name": "Only Hour",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "Capturing the fleeting beauty of twilight, Only Hour is a romantic and enchanting fragrance. Delicate floral notes mingle with warm amber and creamy sandalwood, evoking the magical moments as day transitions to night.",
+      "base": "Amber, Sandalwood",
+      "heart": "Jasmine, Lily",
+      "top": "Neroli, Mandarin",
+      "sample": "No"
+    },
+    "fragrance26": {
+      "name": "Royal Velvetine",
+      "price": 99.99,
+      "type": "Autumn",
+      "description": "Fit for royalty, Royal Velvetine is a luxurious fragrance that exudes regal elegance. Rich spices and precious woods mingle with velvety roses and creamy vanilla, creating a scent that is both opulent and captivating.",
+      "base": "Sandalwood, Vanilla",
+      "heart": "Rose, Ylang-Ylang",
+      "top": "Black Pepper, Clove",
+      "sample": "No"
+    },
+    "fragrance27": {
+      "name": "Sicilian Oud",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Sicilian Oud captures the essence of Sicily's sun-drenched landscapes and rich cultural heritage. This sophisticated fragrance blends smoky oud with zesty citrus and aromatic spices, creating a scent that is both exotic and alluring.",
+      "base": "Patchouli, Vetiver",
+      "heart": "Oud, Saffron",
+      "top": "Bergamot, Lemon",
+      "sample": "No"
+    },
+    "fragrance28": {
+      "name": "Skyline Symphony",
+      "price": 99.99,
+      "type": "Summer",
+      "description": "Embark on a sensory journey through the world's most iconic cities with Skyline Symphony. This captivating fragrance captures the essence of urban landscapes, blending crisp citrus with aromatic herbs and woody notes, creating a symphony of scent that celebrates the vibrancy of city life.",
+      "base": "Cedarwood, Vetiver",
+      "heart": "Basil, Lavender",
+      "top": "Bergamot, Lemon",
+      "sample": "No"
+    },
+    "fragrance29": {
+      "name": "Twilight Princess",
+      "price": 99.99,
+      "type": "Spring",
+      "description": "Twilight Princess is a fragrance fit for fairy tales and enchanted realms. This magical scent combines delicate florals with sweet fruits and warm woods, creating a captivating aroma that enchants the senses and sparks the imagination.",
+      "base": "Sandalwood, Musk",
+      "heart": "Rose, Violet",
+      "top": "Pear, Blackcurrant",
+      "sample": "No"
+    }
+  }
