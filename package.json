@@ -5,9 +5,10 @@
   "main": "server.js",
   "scripts": {
     "test": "mocha ./tests/test.*.js --reporter spec --log-level=warn --timeout 10000",
-    "dev": "nodemon server.js"
+    "dev": "nodemon server.js",
+    "start": "node server.js"
   },
-  "author": "Ash Williams",
+  "author": "Danish Asghar",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.20.0",
